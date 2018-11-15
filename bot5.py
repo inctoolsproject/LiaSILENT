@@ -30,10 +30,10 @@ print ("☆☆☆[ Login Success ]☆☆☆")
 oepoll = OEPoll(cl)
 call = cl
 
-creator = ["ued9c4b8c3ddcbeccb1ddaf58e68b153a","ufdc20b3a00b5e8f31e4f91017eb361b0","u4e31d7e10bff93329195d410e35ad641"]
-owner = ["ued9c4b8c3ddcbeccb1ddaf58e68b153a","ufdc20b3a00b5e8f31e4f91017eb361b0","u4e31d7e10bff93329195d410e35ad641"]
-admin = ["ued9c4b8c3ddcbeccb1ddaf58e68b153a","ufdc20b3a00b5e8f31e4f91017eb361b0","u4e31d7e10bff93329195d410e35ad641"]
-staff = ["ued9c4b8c3ddcbeccb1ddaf58e68b153a","ufdc20b3a00b5e8f31e4f91017eb361b0","u4e31d7e10bff93329195d410e35ad641"]
+creator = ["ued9c4b8c3ddcbeccb1ddaf58e68b153a","u0123daa237fe2b33b2445f00a5e59f12","ue0c31c3bf5727ce89b425f8f93c3980e"]
+owner = ["ued9c4b8c3ddcbeccb1ddaf58e68b153a","u0123daa237fe2b33b2445f00a5e59f12","ue0c31c3bf5727ce89b425f8f93c3980e"]
+admin = ["ued9c4b8c3ddcbeccb1ddaf58e68b153a","u0123daa237fe2b33b2445f00a5e59f12","ue0c31c3bf5727ce89b425f8f93c3980e"]
+staff = ["ued9c4b8c3ddcbeccb1ddaf58e68b153a","u0123daa237fe2b33b2445f00a5e59f12","ue0c31c3bf5727ce89b425f8f93c3980e"]
 mid = cl.getProfile().mid
 Amid = ki.getProfile().mid
 Bmid = kk.getProfile().mid
